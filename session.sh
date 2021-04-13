@@ -24,12 +24,13 @@ mkdir imgs
 # At appropriate checkpoints, you'll need to do the following:
 # Add all new files you have added (if any) to the git 
 git status
-git add <file>
+git add <file> 
 
 # Make a commit, including a _descriptive_ message
-git commit -am <a message>
+git commit -am <a message> (6 times messages are all in git)
 
 # Push your change up to GitHub
 git push
 
 ## good luck!
+thank you!
