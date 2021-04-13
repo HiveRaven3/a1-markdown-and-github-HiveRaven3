@@ -1,4 +1,13 @@
-# a1-news
+# a1-news-SamMcCormick
+ 
+The **Suez Canal Crisis** occurred recently, when a ship from the Evergreen company got stuck in the canal, blocking all passage. 
+This boat, named the *Ever Given*, got stuck after drawing a serxually explicit outline while waiting to enter the canal. 
+Since the issue occured, the boat was stuck for 6 days, and caused 9.6 billion USD in damages.
+
+
+
+
+
 
 ## Overview
 
