@@ -1,12 +1,12 @@
-# a1-news-SamMcCormick
+# Suez Canal Crisis
  
 The **Suez Canal Crisis** occurred recently, when a ship from the Evergreen company got stuck in the canal, blocking all passage. 
 This boat, named the *Ever Given*, got stuck after drawing a serxually explicit outline while waiting to enter the canal. 
 Since the issue occured, the boat was stuck for 6 days, and caused 9.6 billion USD in damages.
 
+>On the subject, one source says, "The vessel was finally freed six days later. Egyptian authorities said that there may have been technical or human errors also involved.".
 
-
-
+![Ever Given stuck](imgs/evergivenstuck.jpg)
 
 
 ## Overview
